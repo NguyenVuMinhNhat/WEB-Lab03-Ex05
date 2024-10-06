@@ -1,0 +1,62 @@
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: brown;
+}
+
+.contract-form {
+    max-width: 400px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    width: 380px;
+    font-size: 16px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: brown;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color: darkred;
+}
+
+.social-logo {
+    width: 40px;
+    height: auto;
+    padding-left: 16px;
+    padding-bottom: 12px;
+}
+
+.social-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

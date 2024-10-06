@@ -1,0 +1,24 @@
+h2{
+    font-size: 20px;
+    font-weight: bold;
+    color:brown;
+}
+
+.hobbies-img{
+    width: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.hobbies{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+

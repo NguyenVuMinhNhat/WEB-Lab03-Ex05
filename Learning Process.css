@@ -1,0 +1,44 @@
+.school-name{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 20px;
+    font-weight: bold;
+    color:brown;
+}
+
+.school-logo{
+    width: 15vw;
+    max-width: 120px;
+    height: auto;
+    display: inline-block;
+    padding: 12px 16px;
+}
+
+.logo{
+    width: 100%;
+}
+
+.school-form{
+    display: flex;
+    padding: 12px 0px;
+    align-items: center;
+}
+
+.school-info{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.school-info a{
+    text-decoration: none;
+    color: blue;
+}
+
+.school-info a:hover{
+    text-decoration: underline;
+    color: green;
+}
